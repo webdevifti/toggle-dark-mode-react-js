@@ -104,3 +104,8 @@ article{
   margin: 10px 0px;
   transition: var(--initialTransition);
 }
+@media (max-width: 660px){
+  .content{
+    width: 95%;
+  }
+}
